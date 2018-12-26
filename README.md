@@ -38,8 +38,5 @@ Our main objective of this project is to avoid this and others problem. We will 
 * Print files 
 
 ## E-File Project Video
-![e-file](https://user-images.githubusercontent.com/15130238/50428186-4f240280-08df-11e9-89a9-ac04710d40e3.png)
-![e-file]()
 
-
- <a href="https://youtu.be/Dn18dhwu1uA"> <img src="https://user-images.githubusercontent.com/15130238/50428186-4f240280-08df-11e9-89a9-ac04710d40e3.png" width="550"></a>
+ <a href="https://youtu.be/Dn18dhwu1uA"> <img src="https://user-images.githubusercontent.com/15130238/50428186-4f240280-08df-11e9-89a9-ac04710d40e3.png" width="750"></a>
