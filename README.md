@@ -37,6 +37,14 @@ Our main objective of this project is to avoid this and others problem. We will 
 * Generate to file document
 * Print files 
 
+## Development Requirements
+
+* Oracle Database 11g
+* Oracle Developer Suite 10g
+* Oracle SQL Plus
+* Oracle PL/SQL
+* Toad
+
 ## E-File Project Video
 
  <a href="https://youtu.be/Dn18dhwu1uA"> <img src="https://user-images.githubusercontent.com/15130238/50428186-4f240280-08df-11e9-89a9-ac04710d40e3.png" width="750" target="_blank"></a>
