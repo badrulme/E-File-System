@@ -1,0 +1,28 @@
+<jnlp spec="1.0+" href="http://DESKTOP-QUEL0SR:8889/forms/java/efile.jnlp" codebase="http://DESKTOP-QUEL0SR:8889/forms/java/">
+<information>
+<title>E-file</title>
+<vendor>E-file</vendor>
+<description>E-file</description>
+<description kind="one-line">E-file</description>
+<description kind="tooltip">E-file</description>
+<description kind="short">E-file</description>
+</information>
+<security>
+<all-permissions />
+</security>
+<resources>
+<j2se version="1.4+" />
+<jar href="frmall.jar" size="" main="true" />
+</resources>
+<applet-desc main-class="oracle.forms.engine.Main" name="Forms" width="1010" height="620" top="20" left="100">
+<param name="separateFrame" value="false" />
+<param name="lookAndFeel" value="oracle" />
+<param name="splashScreen" value="no" />
+<param name="background" value="" />
+<param name="colorScheme" value="blue" />
+<param name="serverURL" value="/forms/lservlet?ifcfs=http://DESKTOP-QUEL0SR:8889/forms/frmservlet?config=efile" />
+<param name="serverApp" value="default" />
+<param name="logo" value="false" />
+<param name="serverArgs" value="module=login.fmx usesdi=yes userid= sso_userid= debug=no buffer_records=no debug_messages=no array=no query_only=no quiet= render=no host= port= record= tracegroup= log= " />
+</applet-desc>
+</jnlp>
