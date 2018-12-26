@@ -15,3 +15,24 @@ Our main objective of this project is to avoid this and others problem. We will 
 * Reduce file processing and approval time
 * Stored file for long time
 * Providing security for all functionality
+
+## Requirements 
+
+* Personal Computer
+* Server computer
+* Good Programmer
+* Others necessary equipment
+
+## Features of E-File
+
+* Create or Open files
+* Add notes to specific file
+* Send files
+* Search files
+* Attach signature
+* Approve files
+* Return files
+* Reject files
+* Inactive files
+* Generate to file document
+* Print files 
