@@ -53,4 +53,4 @@ Our main objective of this project is to avoid this and others problem. We will 
 For more information, see [E-File site](https://sites.google.com/view/e-file/home).
 
 ##
-Contact: [fb.com/badrul.me](https://www.facebook.com/badrul.me), hridoyjbd@gamil.com, Skype: hridoyjbd
+For any query: [fb.com/badrul.me](https://www.facebook.com/badrul.me), hridoyjbd@gamil.com, Skype: hridoyjbd
